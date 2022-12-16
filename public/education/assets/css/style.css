@@ -1,0 +1,27 @@
+.section-title .title {
+    font-size: 36px;
+    font-weight: 600;
+    color: #072f60;
+    line-height: 1.2;
+    margin-top: 0px;
+    text-align: center;
+}
+body{
+    font-family: sans-serif;
+    color: black;
+}
+.progress{
+    margin: 300px auto;
+}
+.progress img{
+    width: 80px;
+    border-radius: 50%;
+}
+ul{
+    text-align: center;
+}
+
+ul li{
+    display: inline-block;
+    width: 200px;
+}
